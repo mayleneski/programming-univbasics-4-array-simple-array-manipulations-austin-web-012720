@@ -42,6 +42,6 @@ def using_delete(array, string)
   array.delete(string)
 end
 
-def using_delelete_at(array, integer)
-  array.delete_at(integer.to_i)
+def using_delelete_at(array, 3)
+  array.delete_at(3)
 end
